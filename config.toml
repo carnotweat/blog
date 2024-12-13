@@ -1,4 +1,4 @@
-baseURL = "https://dgood.win"
+baseURL = "/"
 theme = "hugo-ficurinia"
 title = "Dom Goodwin"
 languageCode = "en"
